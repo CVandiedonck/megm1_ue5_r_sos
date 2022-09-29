@@ -32,5 +32,4 @@ dependencies:
   # https://github.com/lckr/jupyterlab-variableInspector
   - r-repr
   - pip:
-    - lckr-jupyterlab-variableinspector
     - matplotlib
